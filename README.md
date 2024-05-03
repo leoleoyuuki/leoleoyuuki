@@ -27,8 +27,8 @@
 ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-0D1117?logo=intellij-idea&style=for-the-badge)&nbsp;
  
 ### Other Knowledge:
-![FireBase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![JavaScript](https://shields.io/badge/JavaScript-0D1117?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
+![FireBase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=ffae42)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=JavaScript&logoColor=ffff00&style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
