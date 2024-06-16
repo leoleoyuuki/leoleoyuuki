@@ -12,13 +12,13 @@
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React_/_React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![[TypeScript](")](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![[TypeScript]](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-0D1117.svg?style=for-the-badge&logo=python&logoColor=yellow)
+
 
  
 ### Tools:
@@ -53,6 +53,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![[TypeScript]](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
